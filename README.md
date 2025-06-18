@@ -6,6 +6,16 @@
 - 📫 How to reach me **mridulagarwal20082004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/187UNvUwM_pCSqBePF2NBxsHHMri8P4Hz/view?usp=sharing](https://drive.google.com/file/d/187UNvUwM_pCSqBePF2NBxsHHMri8P4Hz/view?usp=sharing)
+  
+  <h3 align="left">🌟 Projects:</h3>
+
+- 🔴 [Real-Time Video Conferencing Application](https://real-time-video-conferencin-git-4fa672-mridul-agrawals-projects.vercel.app )  
+  A full-stack video conferencing platform with real-time communication, chat, and screen sharing features using WebRTC and Node.js.
+
+- 🎫 [Ticket Booking System (Backend Only)](https://github.com/mridul-20/ticket-booking-backend)  
+  A scalable backend system built with Node.js and Express.js that handles user reservations, schedules, and seat allocations.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
