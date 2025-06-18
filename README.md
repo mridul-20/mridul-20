@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mridul Agrawal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer with hands-on experience in building scalable web applications. I enjoy crafting clean, efficient code and solving real-world problems through technology. Always eager to learn, collaborate, and contribute to impactful software solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridul-20" alt="mridul-20" /></a> </p>
 
 - 📫 How to reach me **mridulagarwal20082004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/187UNvUwM_pCSqBePF2NBxsHHMri8P4Hz/view?usp=sharing](https://drive.google.com/file/d/187UNvUwM_pCSqBePF2NBxsHHMri8P4Hz/view?usp=sharing)
-  
+--- 
   <h3 align="left">🌟 Projects:</h3>
 
-- 🔴 [Real-Time Video Conferencing Application](https://real-time-video-conferencin-git-4fa672-mridul-agrawals-projects.vercel.app )  
-  A full-stack video conferencing platform with real-time communication, chat, and screen sharing features using WebRTC and Node.js.
+-  [Real-Time Video Conferencing Application](https://real-time-video-conferencin-git-4fa672-mridul-agrawals-projects.vercel.app )  
+• A full-stack video conferencing platform with real-time communication, chat, and screen sharing features using WebRTC and Node.js.
+• Implemented user authentication and authorization with JWT to ensure secure access to meetings.                                  
+• Designed a responsive user interface using Next.js and React for smooth and intuitive user experience across devices.
 
-- 🎫 [Ticket Booking System (Backend Only)](https://github.com/mridul-20/ticket-booking-backend)  
-  A scalable backend system built with Node.js and Express.js that handles user reservations, schedules, and seat allocations.
+
+-  [Ticket Booking System (Backend Only)](https://github.com/mridul-20/ticket-booking-backend)  
+• Developed a backend system for ticket booking, handling user registrations, train details, and ticket management.       
+• Implemented RESTful APIs for booking, cancellations, and train schedules using Spring Boot.                      
+• Integrated MySQL for data persistence and optimized queries for fast retrieval.                                 
 
 ---
 
